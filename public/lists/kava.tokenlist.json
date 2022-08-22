@@ -1,0 +1,28 @@
+{
+  "name": "Kava",
+  "logoURI": "https://cryptologos.cc/logos/kava-kava-logo.svg",
+  "keywords": [
+    "scaling",
+    "layer2",
+    "infrastructure"
+  ],
+  "timestamp": "2022-08-19T20:58:45.732Z",
+  "tokens": [
+    {
+      "chainId": 2221,
+      "address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
+      "name": "0xBitcoin",
+      "symbol": "0xBTC",
+      "decimals": 8,
+      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+      }
+    }
+  ],
+  "version": {
+    "major": 4,
+    "minor": 3,
+    "patch": 0
+  }
+}
